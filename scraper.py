@@ -6,17 +6,17 @@ import configparser
 import csv
 import time
 
-re="\033[1;31m"
-gr="\033[1;32m"
-cy="\033[1;36m"
+re="\e[1;34m" #mavi
+gr="\e[1;31m" #qirmizi
+cy="\e[1;33m" #yasil
 
 def banner():
     print(f"""
-*╔═══❖══════❖═══╗
- ║ DTB ║
- ║ Scraper ║
- ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
-*╚═══❖══════❖═══╝""")
+{re}____  ____  ____    ___   ___  ____    __    ____  ____  ____ 
+{re}(  _ \(_  _)(  _ \  / __) / __)(  _ \  /__\  (  _ \( ___)(  _ \
+{gr})(_) ) )(   ) _ <  \__ \( (__  )   / /(__)\  )___/ )__)  )   /
+{cy}(____/ (__) (____/  (___/ \___)(_)\_)(__)(__)(__)  (____)(_)\_)
+            """)
 
 cpass = configparser.RawConfigParser()
 cpass.read('config.data')
