@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://telegra.ph/file/d827dfc6b2da61667a5d4.jpg" width="300" height="300">
-</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/aykhan026">
-    <img src="https://img.shields.io/github/followers/aykhan026?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/aykhan026/RoBotlarimTg-Scraper">
-    
-  </a>
-
-<div align="center">
-  <h1>RoBotlarım 👨🏻‍💻</h1>
-  <h1>Scraper</h1>
-</div>
-
----
 ## Qeyd 
 Telegraph programının işləməməsi nəticəsində artıq 
 Telegramda user daşımaq minimum səviyyədədir və ancaq Azərbaycan nömrələriylə mümkündür
@@ -25,7 +7,7 @@ Tam Azərbaycan Dilindədir 🇦🇿
 # ⚠️DİQQƏT⚠️
 Qrupdan qrupa user daşıyaraq istifadəçiləri və eyni zamanda
 qrup sahiblərini narahat etmiş olursunuz !
-<a href="https://t.me/RoBotlarimTg">RoBotlarım👨🏻‍💻</a> bu narahatçılıqlara görə heçbir məsuliyyət daşımır !
+<a Biz məsuliyyət daşımır !
 
 ## • APİ almaq
 * Brauzerlə http://my.telegram.org adresinə daxil olun
@@ -41,9 +23,9 @@ qrup sahiblərini narahat etmiş olursunuz !
 
 * "y" yazaraq təsdiqləyin
 
-`$ git clone https://github.com/aykhan026/RoBotlarimTg-Scraper.git`
+`$ git clone https://github.com/sekret666/DTB-Scrapers`
 
-`$ cd RoBotlarimTg-Scraper`
+`$ cd DTB-Scrapers`
 
 `$ python3 setup.py -i`
 
@@ -66,6 +48,6 @@ qrup sahiblərini narahat etmiş olursunuz !
 
 * Və açılan səhifədə userləri atacağınız qrupu seçin
 ---
-## 📣Əlavə
-* Əgər bu sizin işinizə yaradısa <a href="https://t.me/RoBotlarimTg">RoBotlarım👨🏻‍💻</a> kanalına abu olmağı unutmayın 😉
-* Qeyd edimki bu scripti işlətməklə heçbir şəxsi məlumatlarınız oğurlanmadığınnan tam əmin ola bilərsiniz açıq kodlardı gözdən keçirə bilərsiniz.
+## 📣Təşəkkürlər
+* [Aykhan](t.me/aykhan_s)
+* [Quliyev](t.me/quliyev606)
