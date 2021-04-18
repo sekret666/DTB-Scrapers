@@ -13,8 +13,8 @@ yasil="\e[1;92m"
 def banner():
     print(f"""
 *╔═══❖══════❖═══╗
- ║ DTB           ║
- ║ Scrapers      ║
+ ║ DTB          ║
+ ║ Scrapers     ║
  ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
 *╚═══❖══════❖═══╝
 """)
