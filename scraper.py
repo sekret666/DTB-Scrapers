@@ -6,9 +6,9 @@ import configparser
 import csv
 import time
 
-mavi="\e[1;94m"
-qirmizi="\e[1;91m"
-yasil="\e[1;92m"
+re="\033[1;31m"
+gr="\033[1;32m"
+cy="\033[1;36m"
 
 def banner():
     print(f"""
