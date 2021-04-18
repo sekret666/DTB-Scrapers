@@ -19,8 +19,8 @@ class main():
         
         print(f"""
 *╔═══❖══════❖═══╗
- ║ DTB           ║
- ║ Scrapers      ║
+ ║ DTB          ║
+ ║ Scrapers     ║
  ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
 *╚═══❖══════❖═══╝
 """)
