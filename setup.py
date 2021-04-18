@@ -16,10 +16,11 @@ def banner():
 	os.system('clear')
 	print(f"""
 *╔═══❖══════❖═══╗
- ║ DTB ║
- ║ Scraper ║
+ ║ DTB     ║
+ ║ Scrapers ║
  ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
-*╚═══❖══════❖═══╝""")
+*╚═══❖══════❖═══╝
+""")
 
 def requirements():
 	def csv_lib():
