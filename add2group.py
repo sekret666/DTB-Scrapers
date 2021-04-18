@@ -13,7 +13,7 @@ import random
 
 re="\e[1;34m" #mavi
 gr="\e[1;31m" #qirmizi
-cy="\e[1;33m	" #yasil
+cy="\e[1;33m" #yasil
 
 def banner():
     print(f"""
