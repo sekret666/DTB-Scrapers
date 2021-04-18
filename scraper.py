@@ -13,10 +13,11 @@ yasil="\e[1;92m"
 def banner():
     print(f"""
 *╔═══❖══════❖═══╗
- ║ DTB ║
- ║ Scraper ║
+ ║ DTB           ║
+ ║ Scrapers      ║
  ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
-*╚═══❖══════❖═══╝""")
+*╚═══❖══════❖═══╝
+""")
 
 cpass = configparser.RawConfigParser()
 cpass.read('config.data')
