@@ -5,9 +5,9 @@ setup.py-ni yenidən işə sala bilərsiniz
 səhv bir dəyər əlavə etmisinizsə
 
 """
-re="\033[1;31m"
-gr="\033[1;32m"
-cy="\033[1;36m"
+re="\e[1;34m" #mavi
+gr="\e[1;31m" #qirmizi
+cy="\e[1;33m" #yasil
 
 import os, sys
 import time
@@ -15,11 +15,11 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-*╔═══❖══════❖═══╗
- ║ DTB ║
- ║ Scraper ║
- ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
-*╚═══❖══════❖═══╝""")
+{re}____  ____  ____    ___   ___  ____    __    ____  ____  ____ 
+{re}(  _ \(_  _)(  _ \  / __) / __)(  _ \  /__\  (  _ \( ___)(  _ \
+{gr})(_) ) )(   ) _ <  \__ \( (__  )   / /(__)\  )___/ )__)  )   /
+{cy}(____/ (__) (____/  (___/ \___)(_)\_)(__)(__)(__)  (____)(_)\_)
+            """)
 
 def requirements():
 	def csv_lib():
