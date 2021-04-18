@@ -16,8 +16,8 @@ def banner():
 	os.system('clear')
 	print(f"""
 *╔═══❖══════❖═══╗
- ║ DTB     ║
- ║ Scrapers ║
+ ║ DTB           ║
+ ║ Scrapers      ║
  ║   ᕙ( ͡° ͜ʖ ͡°)ᕗ ║
 *╚═══❖══════❖═══╝
 """)
